@@ -800,7 +800,7 @@ If an API key is accidentally committed to GitHub, revoke the exposed key and ge
 
 ## Author
 
-**Your Name**
+**Aman Chauhan**
 
 GitHub:
 
