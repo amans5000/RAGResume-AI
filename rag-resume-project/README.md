@@ -4,7 +4,7 @@ A modular, local Retrieval-Augmented Generation (RAG) pipeline designed for pars
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 rag-resume-project/
@@ -29,7 +29,7 @@ rag-resume-project/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Activate your virtual environment
 
@@ -46,7 +46,7 @@ pip install -r requirements.txt
 
 ---
 
-## 💻 Usage
+## Usage
 
 ### 1. Build or Rebuild the Vector Index
 Index `data/resume.pdf` into `chroma_db/`:
@@ -82,7 +82,7 @@ python src/main.py
 
 ---
 
-## 🧩 Module Breakdown
+## Module Breakdown
 
 | Module | Responsibility |
 | :--- | :--- |
