@@ -18,7 +18,6 @@ The system extracts text from the uploaded document, creates section-aware chunk
 - Interactive Streamlit web interface
 - View retrieved context used for answer generation
 - Display retrieved sections and similarity distances
-- Replace the currently indexed resume with a new resume
 
 ---
 
@@ -224,7 +223,7 @@ The `data/` directory is used for uploaded documents and should not contain pers
 
 ---
 
-## How the Components Work
+<!-- ## How the Components Work
 
 ### Document Loader
 
@@ -570,7 +569,7 @@ Similarity Search
 Relevant Context
 ```
 
----
+--- -->
 
 ## Installation
 
@@ -702,7 +701,7 @@ Open the retrieved-context section to check which chunks were selected for the q
 
 ---
 
-## Current Limitations
+<!-- ## Current Limitations
 
 The current implementation is primarily designed for a single resume at a time.
 
@@ -797,7 +796,7 @@ The `.env` file contains API credentials.
 
 If an API key is accidentally committed to GitHub, revoke the exposed key and generate a new one immediately.
 
----
+--- -->
 
 ## Learning Objectives
 
