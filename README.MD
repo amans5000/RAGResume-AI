@@ -798,34 +798,6 @@ If an API key is accidentally committed to GitHub, revoke the exposed key and ge
 
 --- -->
 
-## Learning Objectives
-
-This project demonstrates practical implementation of:
-
-- Retrieval-Augmented Generation
-- Document ingestion
-- PDF and DOCX processing
-- Text chunking
-- Section-aware chunking
-- Semantic embeddings
-- Vector databases
-- Similarity search
-- Context retrieval
-- Prompt construction
-- LLM-based generation
-- Streamlit application development
-- Environment and API key management
-
----
-
-## License
-
-This project is intended for educational and portfolio purposes.
-
-Add an appropriate open-source license if you decide to distribute the project publicly.
-
----
-
 ## Author
 
 **Your Name**
@@ -833,5 +805,5 @@ Add an appropriate open-source license if you decide to distribute the project p
 GitHub:
 
 ```text
-https://github.com/YOUR_USERNAME
+https://github.com/amans5000
 ```
